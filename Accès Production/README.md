@@ -11,3 +11,6 @@ Si Java n'est pas installé sur votre ordinateur, utilisez le bouton ci-dessous 
     Télécharger l'application
   </button>
 </a>
+
+
+**Pour utiliser l’application :** téléchargez et extrayez les fichiers contenus dans l’archive ZIP de production, puis ouvrez simplement le fichier .exe dans le dossier décompressé pour lancer l’application.
